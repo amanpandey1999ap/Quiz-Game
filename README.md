@@ -2,6 +2,13 @@
 
 Quiz Application on Flutter
 
+I have added screenshots for this particular application.
+Application is not tested on IOS (may show some visual bugs on IOS),
+Preffered Android Version 11.0 with Stock Android.
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
